@@ -1,2 +1,2 @@
-# upmc-surf
+# Surf
 Implémentation du descripteur SURF
